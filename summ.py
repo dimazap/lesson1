@@ -1,6 +1,5 @@
 def get_summ(param_1, param_2):
-	summ_string = param_1 + " " + param_2
-	return f"Result is {summ_string}"
+	return f"Result is {param_1} {param_2}"
 
 one = "Learn"
 two = "python"
